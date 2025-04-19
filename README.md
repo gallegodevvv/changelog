@@ -7,7 +7,7 @@ This document contains all notable changes across the Hash components.
 ### 🐛 Bug Fixes
 
 ### 🔨 Build System
-
+A NEW DISCORD BOT
 ### 🚀 Features
 
 
