@@ -10,9 +10,7 @@ Fixed Crash after game initialized
 ### 🔨 Build System
 A NEW DISCORD BOT
 ### 🚀 Features
-New Website 
-New Code Of Aimbot
-New Code Of Silent
+
 
 
 <!-- © Hash 2025. All rights reserved. -->
